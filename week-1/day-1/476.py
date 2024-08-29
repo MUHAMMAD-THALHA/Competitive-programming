@@ -10,5 +10,3 @@ num = 5
 solution = Solution()
 output = solution.findComplement(num)
 print(f"The complement of {num} is {output}.") 
-
-
